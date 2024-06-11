@@ -1,12 +1,12 @@
 ## Hi there  👋
 
-**assis351
+**assis351**
 
-Here are some ideas to get you started:
+**aula de programação no itinerario**
 
-meu nome é lucas 
-estudo no alura na aula da josie 
-minha professora preferida
-gosto de programação
-amo jogar bola 
-minha paralinfa 
+-meu nome é lucas ...
+-estudo no alura na aula da josie ...
+-minha professora preferida...
+-gosto de programação;...
+-amo jogar bola ...
+-minha paralinfa ...
